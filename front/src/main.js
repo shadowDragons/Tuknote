@@ -12,7 +12,7 @@ Vue.use(Vuetify)
 
 /* eslint-disable no-new */
 /* eslint-disable */
-// eslint-disable-next-line
+
 new Vue({
   el: '#app',
   router,
